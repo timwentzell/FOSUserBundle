@@ -1,5 +1,5 @@
 {
-    "name": "evrinoma/user-bundle",
+    "name": "timwentzell/user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": [
@@ -22,6 +22,10 @@
         {
             "name": "Nikolay Nikolaev",
             "email": "evrinoma@gmail.com"
+        },
+        {
+            "name": "Tim Wentzell",
+            "email": "tim.wentzell@focalresearch.com"
         }
     ],
     "require": {
